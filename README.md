@@ -34,19 +34,6 @@ The JobApproval smart contract addresses a critical problem in hiring: **unreali
 - **Access Control**: Only authorized managers can approve jobs
 - **Anti-Replay Protection**: Prevents duplicate approvals
 
-## Smart Contract Architecture
-JobApproval Contract
-├── HR Managers
-│   ├── Add/Remove/Update HR staff
-│   └── Business requirement validation
-├── Field Managers
-│   ├── Technical expert assignment
-│   ├── Job type specialization
-│   └── Technical feasibility validation
-└── Job Verification
-├── Dual signature requirement
-├── Hash-based job identification
-└── Immutable approval records
 
 ## Approval Workflow
 
